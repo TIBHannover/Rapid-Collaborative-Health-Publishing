@@ -18,7 +18,7 @@ https://github.com/fiduswriter/fiduswriter-github-export
 
 See: Documentation [FW-GH](FWGH-Documentation.md)
 
-#### Schematic - book part / Moodle part ot follow
+#### Schematic - book part / Moodle part to follow
 
 ![Schematic](https://github.com/TIBHannover/ADA-Lehrbuch/blob/master/Book%20Git.svg "Schematic")
 

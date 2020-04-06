@@ -16,6 +16,33 @@ https://github.com/fiduswriter/fiduswriter-github-export
 
 See: Documentation [FW-GH](FWGH-Documentation.md)
 
+#### Schematic - book part / Moodle part ot follow
+
+![Schematic](https://github.com/TIBHannover/ADA-Lehrbuch/blob/master/Book%20Git.svg "Schematic")
+
+Diagram.net schematic https://drive.google.com/file/d/1-P65cgrcGabE_1Hdoo-P9ya20sPaUuLe/view?usp=sharing
+
+## Roadmap
+ 
+- Emergency Book bookstrap (triage), 8+ books - https://akademie-oeffentliches-gesundheitswesen.github.io/lehrbuch-krisenmanagment/
+- Metadata consultation TIB - bootstrap metadata across multiformat books, book trade and scholarly, library and OER, + usage metrics
+- Fidus to GitHub 
+- Templating work for Fidus to GitHub 
+- Fidus UI 
+- Template consultation from Vivliostyle, Le-tex, and Avco on Jekyll
+- Pipeline consultation with Le-tex
+- Avco/Interpunct on designing a Bootstrap for multiformat
+- Metadata consultation TIB - crypto IDs, OSL/TIB (review round 1 and incorporate blockchain)
+- System review - post Book triage
+- Moodle OER pipelin
+- Sysadmin server due to rapid development  
+- Pandoc in browser 
+- ADA - Microservice / cloud / CD-CI / API Endocode - connects us to the world
+- Endocode cloud build with Fidus Writer
+- Validator CI for publishing / OER
+- Editorial, proofing, markup - workflow and pipeline
+- RINSE REPEAT!!!
+
 ## ADA architecture
 
 ADA — Phases of Development: Proof of Concept to Community Handover – an interoperable framework for microservices in scholarly publishing https://zenodo.org/record/3626810
@@ -27,7 +54,7 @@ ADA — Phases of Development: Proof of Concept to Community Handover – an int
  - Team Fidus Writer - Johannes Wilm
  - Team Endocode - Lisa Nöth and Johannes Amorosa
  - Christian Ahlert, Minibarlabs
- - Vivliostyle for the support on Slack
+ - Vivliostyle for the support on Slack 
  
 ## Licences
 

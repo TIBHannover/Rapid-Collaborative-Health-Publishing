@@ -4,7 +4,7 @@ Project to pull together the different parts that make up the public health text
 
 https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment to https://www.oncampus.de/weiterbildung/moocs/krisenmanagement
 
-Any questions DM @mrchristian99 email simon.worthington@ti.eu 
+Any questions Simon Worthington DM @mrchristian99 email simon.worthington@ti.eu 
 
 ## Fidus Writer to GitHub - FW-GH
 

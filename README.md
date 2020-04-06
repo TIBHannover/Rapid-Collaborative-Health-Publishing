@@ -55,6 +55,7 @@ ADA — Phases of Development: Proof of Concept to Community Handover – an int
  - Team Endocode - Lisa Nöth and Johannes Amorosa
  - Christian Ahlert, Minibarlabs
  - Vivliostyle for the support on Slack 
+ - Avco.com
  
 ## Licences
 

@@ -2,6 +2,8 @@
 
 Project to pull together the different parts that make up the public health textbook framework for books sprints and OER. Collaborative publications connected to OER.
 
+Objective: ‘Free up health knowledge held in professionals and workforce for use in public health and COVID-19 emergency’
+
 https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment to https://www.oncampus.de/weiterbildung/moocs/krisenmanagement
 
 Any questions Simon Worthington DM @mrchristian99 email simon.worthington@ti.eu 

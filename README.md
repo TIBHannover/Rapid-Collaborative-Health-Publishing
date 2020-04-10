@@ -29,15 +29,15 @@ Diagram.net schematic https://drive.google.com/file/d/1-P65cgrcGabE_1Hdoo-P9ya20
 ## Roadmap
  
 - Emergency Book bookstrap (triage), 8+ books - https://akademie-oeffentliches-gesundheitswesen.github.io/lehrbuch-krisenmanagment/
- - [eBook pipeline](ebook-pineline.md)
+  - [eBook pipeline](ebook-pineline.md)
 - Metadata consultation TIB - bootstrap metadata across multiformat books, book trade and scholarly, library and OER, + usage metrics
 - Fidus to GitHub 
 - Templating work for Fidus to GitHub 
 - Fidus UI 
 - Template consultation from Vivliostyle, Le-tex, and Avco on Jekyll
 - Pipeline consultation with Le-tex
- - Flight checker
-  - Publication Ready Outputs (PRO) validation
+  - Flight checker
+    - Publication Ready Outputs (PRO) validation
 - Avco/Interpunct on designing a Bootstrap for multiformat
 - Metadata consultation TIB - crypto IDs, OSL/TIB (review round 1 and incorporate blockchain)
 - System review - post Book triage

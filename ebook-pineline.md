@@ -12,7 +12,7 @@ Stage 2: process and validate ebooks against Trasnpect https://github.com/transp
 
 ## Stage 1 (started 10.4.2020)
 
-  - See issue on project tracker: 
+  - See issue on project tracker: https://github.com/orgs/TIBHannover/projects/2
   - Chat: 
   - Repo sample files: 
 

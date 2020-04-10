@@ -14,7 +14,7 @@ Stage 2: process and validate ebooks against Trasnpect https://github.com/transp
 
   - See issue on project tracker: https://github.com/orgs/TIBHannover/projects/2
   - Chat: 
-  - Repo sample files: 
+  - Repo sample files: https://github.com/TIBHannover/ADA-L-ebook-theme
 
 ### Task
 

@@ -1,6 +1,6 @@
 # ADA Lehrbuch / ADA textbook
 
-- Lehrbuch für den Öffentlichen Gesundheitsdienst / Textbook for the Public Health Service. Re: COVID-19
+- Lehrbuch für den Öffentlichen Gesundheitsdienst / Textbooks for the Public Health Service. Re: COVID-19
 
 Project to pull together the different parts that make up the public health textbook framework for books sprints and OER. Collaborative publications connected to OER.
 

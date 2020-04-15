@@ -24,6 +24,10 @@ See: Documentation [FW-GH](FWGH-Documentation.md)
 
 ![Schematic](https://github.com/TIBHannover/ADA-Lehrbuch/blob/master/Book%20Git.svg "Schematic")
 
+#### Simple workflow
+
+![Schematic](https://github.com/TIBHannover/ADA-Lehrbuch/blob/master/Workflow.svg "Workflow")
+
 Diagram.net schematic https://drive.google.com/file/d/1-P65cgrcGabE_1Hdoo-P9ya20sPaUuLe/view?usp=sharing
 
 ## Roadmap
@@ -63,6 +67,7 @@ ADA — Phases of Development: Proof of Concept to Community Handover – an int
  - Christian Ahlert, Minibarlabs
  - Vivliostyle for the support on Slack 
  - Avco.com
+ - Interpunct Design
  
 ## Licences
 
@@ -70,7 +75,7 @@ Content - Copyright the authors 2020. Creative Commons: Attribution-ShareAlike 4
 
 Code - ADA Copyright the authors 2018-20 the authors. GNU General Public License v3.0 https://github.com/TIBHannover/ADA_infra/blob/master/LICENSE | Source https://github.com/TIBHannover/ADA_infra
 
-All third part content and code is the copyright of the authors and under their respective open lincences.
+All third part content and code is the copyright of the authors and under their respective OSI compliant open lincences.
 
 
 

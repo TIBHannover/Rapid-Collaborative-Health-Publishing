@@ -48,7 +48,7 @@ Diagram.net schematic https://drive.google.com/file/d/1-P65cgrcGabE_1Hdoo-P9ya20
 - Moodle OER pipeline
 - Sysadmin server due to rapid development  
 - Pandoc in browser
-- Pandoc-scholar and GitLab CI - Connect to rapid publishing - https://oa-pub.hos.tuhh.de/en/
+- Pandoc-scholar and GitLab CI - Connect to Modern Publishing, Hamburg Open Science (HOS) - https://oa-pub.hos.tuhh.de/en/
 - ADA - Microservice / cloud / CD-CI / API Endocode - connects us to the world
 - Endocode cloud build with Fidus Writer
 - Validator CI for publishing / OER

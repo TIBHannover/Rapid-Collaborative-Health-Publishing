@@ -1,4 +1,4 @@
-# ADA Lehrbuch / ADA textbook
+# Rapid Collaborative Health Publishing
 
 - Lehrbuch für den Öffentlichen Gesundheitsdienst / Textbooks for the Public Health Service. Re: COVID-19
 
@@ -35,10 +35,10 @@ Diagram.net schematic https://drive.google.com/file/d/1-P65cgrcGabE_1Hdoo-P9ya20
 - Emergency Book bookstrap (triage), 8+ books - https://akademie-oeffentliches-gesundheitswesen.github.io/lehrbuch-krisenmanagment/
   - [eBook pipeline](ebook-pineline.md)
 - Metadata consultation TIB - bootstrap metadata across multiformat books, book trade and scholarly, library and OER, + usage metrics
-- Fidus to GitHub 
-- Templating work for Fidus to GitHub 
+- Fidus to GitHub - https://github.com/fiduswriter/fiduswriter-github-export
+- Templating work for Fidus to GitHub - In-progress
 - Fidus UI 
-- Template consultation from Vivliostyle, Le-tex, and Avco on Jekyll
+- Template consultation from Vivliostyle, Le-tex, and Avco on Jekyll - In-progress
 - Pipeline consultation with Le-tex
   - Flight checker
     - Publication Ready Outputs (PRO) validation
@@ -54,9 +54,9 @@ Diagram.net schematic https://drive.google.com/file/d/1-P65cgrcGabE_1Hdoo-P9ya20
 - Editorial, proofing, markup - workflow and pipeline
 - RINSE REPEAT!!!
 
-## ADA architecture
+## Architecture - Advanced Documennt Architecture (ADA)
 
-ADA — Phases of Development: Proof of Concept to Community Handover – an interoperable framework for microservices in scholarly publishing https://zenodo.org/record/3626810
+Simon Worthington, Lisa Nöth, and Johannes Amorosa, ‘ADA — Phases of Development: Proof of Concept to Community Handover  – an Interoperable Framework for Microservices in Scholarly Publishing’, 1 August 2019, https://doi.org/10.5281/zenodo.3626810.
 
 ## Partners, acknowledgements and thank yous
 
@@ -68,14 +68,23 @@ ADA — Phases of Development: Proof of Concept to Community Handover – an int
  - Vivliostyle for the support on Slack 
  - Avco.com
  - Interpunct Design
+ - RunStop
  
 ## Licences
 
 Content - Copyright the authors 2020. Creative Commons: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.de | Source https://github.com/TIBHannover/ADA-Lehrbuch
 
-Code - ADA Copyright the authors 2018-20 the authors. GNU General Public License v3.0 https://github.com/TIBHannover/ADA_infra/blob/master/LICENSE | Source https://github.com/TIBHannover/ADA_infra
+Code - Advanced Documennt Architecture (ADA), Copyright the authors 2018-20 the authors. GNU General Public License v3.0 https://github.com/TIBHannover/ADA_infra/blob/master/LICENSE | Source https://github.com/TIBHannover/ADA_infra
 
-All third part content and code is the copyright of the authors and under their respective OSI compliant open lincences.
+Data - All data and data sets produced would be CC 0, Public Domain, https://creativecommons.org/publicdomain/zero/1.0/
+
+All fonts and graphics and media production software used on the production would be OSI compliant.
+
+FAIR principles would also be applied https://www.go-fair.org/fair-principles/
+
+All third party content and code is the copyright of the authors and under their respective OSI compliant open licenses for code and compliant with Creative Commons: Attribution-ShareAlike 4.0 International for content.
+
+
 
 
 

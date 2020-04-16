@@ -45,14 +45,19 @@ Diagram.net schematic https://drive.google.com/file/d/1-P65cgrcGabE_1Hdoo-P9ya20
 - Avco/Interpunct on designing a Bootstrap for multiformat
 - Metadata consultation TIB - crypto IDs, OSL/TIB (review round 1 and incorporate blockchain)
 - System review - post Book triage
-- Moodle OER pipelin
+- Moodle OER pipeline
 - Sysadmin server due to rapid development  
-- Pandoc in browser 
+- Pandoc in browser
+- Pandoc-scholar and GitLab CI - Connect to rapid publishing - https://oa-pub.hos.tuhh.de/en/
 - ADA - Microservice / cloud / CD-CI / API Endocode - connects us to the world
 - Endocode cloud build with Fidus Writer
 - Validator CI for publishing / OER
 - Editorial, proofing, markup - workflow and pipeline
 - RINSE REPEAT!!!
+
+### Later stage
+
+ - Connect ORKG, Markus Stocker semantic authoring pipelines
 
 ## Architecture - Advanced Documennt Architecture (ADA)
 

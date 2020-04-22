@@ -63,7 +63,7 @@ Diagram.net schematic https://drive.google.com/file/d/1-P65cgrcGabE_1Hdoo-P9ya20
 
 Simon Worthington, Lisa Nöth, and Johannes Amorosa, ‘ADA — Phases of Development: Proof of Concept to Community Handover  – an Interoperable Framework for Microservices in Scholarly Publishing’, 1 August 2019, https://doi.org/10.5281/zenodo.3626810.
 
-## Partners, acknowledgements and thank yous
+## Partners, acknowledgements and thankyous
 
  - OSL/TIB - Lambert Heller, Anna Eckhardt, and Simon Worthington
  - Academy for Public Health in Düsseldorf - Peter Tinnemann and Jakob Schumacher (Fidus2GitHub RScript)

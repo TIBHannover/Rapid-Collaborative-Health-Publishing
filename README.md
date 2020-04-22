@@ -6,9 +6,18 @@ Project to pull together the different parts that make up the public health text
 
 Objective: ‘Free up health knowledge held in professionals and workforce for use in public health and COVID-19 emergency’
 
+## Publications media created 
+
+### Crisis management
+
 https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment to https://www.oncampus.de/weiterbildung/moocs/krisenmanagement
 
-Any questions Simon Worthington DM @mrchristian99 email simon.worthington@ti.eu 
+### Contact tracing
+
+https://www.oncampus.de/weiterbildung/moocs/kontaktpersonennachverfolgung
+
+
+Any questions Simon Worthington DM @mrchristian99 email simon.worthington@tib.eu 
 
 ## Fidus Writer to GitHub - FW-GH
 

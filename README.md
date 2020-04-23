@@ -10,7 +10,7 @@ Objective: ‘Free up health knowledge held in professionals and workforce for u
 
 ### Joining EU Virus Sprint with ContentMine
 
-ContentMine for the EU hackathon (2020-04-24:26) on COVID. Team "ContentMine" under http://euvsvirus.org. Organise volunteers and lend help where needed and explore ContentMine/openVirus use for 'Global Contact Tracing Sprint'.
+ContentMine for the EU hackathon (2020-04-24:26) on COVID. Team "ContentMine" under http://euvsvirus.org. Organise volunteers and lend help where needed and explore ContentMine/openVirus use for 'Global Contact Tracing Sprint'. OpenVirus https://github.com/petermr/openVirus/blob/master/OVERVIEW.md
 
 ## Publications media created 
 

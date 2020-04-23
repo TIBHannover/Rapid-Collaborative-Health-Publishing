@@ -6,6 +6,12 @@ Project to pull together the different parts that make up the public health text
 
 Objective: ‘Free up health knowledge held in professionals and workforce for use in public health and COVID-19 emergency’
 
+## News
+
+### Joining EU Virus Sprint with ContentMine
+
+ContentMine for the EU hackathon (2020-04-24:26) on COVID. Team "ContentMine" under http://euvsvirus.org. Organise volunteers and lend help where needed and explore ContentMine/openVirus use for 'Global Contact Tracing Sprint'.
+
 ## Publications media created 
 
 ### Crisis management
@@ -16,6 +22,11 @@ https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment to ht
 
 https://www.oncampus.de/weiterbildung/moocs/kontaktpersonennachverfolgung
 
+### Coming soon
+
+  - General Public Health
+  - Pediatrics
+  - Contact tracing and tracking
 
 Any questions Simon Worthington DM @mrchristian99 email simon.worthington@tib.eu 
 

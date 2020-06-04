@@ -60,11 +60,9 @@ See: Documentation [FW-GH](FWGH-Documentation.md)
 #### Health Sprints Technology – Online Open Science Book Sprints: ADA Technology Stack
 
 
-![Schematic](https://github.com/TIBHannover/ADA-Lehrbuch/blob/master/Book%20Git.svg "Schematic")
+![ADA](https://github.com/TIBHannover/ADA-Lehrbuch/blob/master/tech%20rapid%20publishing.svg "ADA")
 
-Diagram: 
-
-Caption - ADA – Advanced Document Architecture
+Caption - ADA – Advanced Document Architecture https://www.draw.io/?page-id=6a731a19-8d31-9384-78a2-239565b7b9f0&scale=auto#G1Wab_PZmNacR4Ql8kYLtK8qbnRnVNABas
 
 The objective of the technology is to facilitate rapid book and online learning publishing, maintain academic high quality standards, and utilizing modern Open Science services and low-cost easy to deploy modern cloud infrastructure. We automate as many workflow parts as possible to maximise time and cost efficiency.
 

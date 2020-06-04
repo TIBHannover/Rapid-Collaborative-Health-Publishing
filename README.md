@@ -59,7 +59,10 @@ See: Documentation [FW-GH](FWGH-Documentation.md)
 
 #### Health Sprints Technology – Online Open Science Book Sprints: ADA Technology Stack
 
-Diagram
+
+![Schematic](https://github.com/TIBHannover/ADA-Lehrbuch/blob/master/Book%20Git.svg "Schematic")
+
+Diagram: 
 
 Caption - ADA – Advanced Document Architecture
 

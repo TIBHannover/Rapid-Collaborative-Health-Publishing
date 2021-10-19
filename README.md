@@ -120,7 +120,7 @@ Diagram.net schematic https://drive.google.com/file/d/1-P65cgrcGabE_1Hdoo-P9ya20
 
  - Connect ORKG, Markus Stocker semantic authoring pipelines
 
-## Architecture - Advanced Documennt Architecture (ADA)
+## Architecture - Advanced Document Architecture (ADA)
 
 Simon Worthington, Lisa Nöth, and Johannes Amorosa, ‘ADA — Phases of Development: Proof of Concept to Community Handover  – an Interoperable Framework for Microservices in Scholarly Publishing’, 1 August 2019, https://doi.org/10.5281/zenodo.3626810.
 
